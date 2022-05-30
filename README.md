@@ -1,3 +1,3 @@
 # CucumberWithRestAsssured
 
-Examples test with Cucumber in combination with RestAssured
+Examples tests with Cucumber in combination with RestAssured
